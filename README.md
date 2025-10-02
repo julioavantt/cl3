@@ -23,3 +23,9 @@ Hola, soy Julio Avantt!
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
   <br>
   <br>
+
+  ## Requisitos
+  #### Ver:
+
+  https://www.youtube.com/watch?v=d1fwp8YZ2gQ&t=6s
+  https://www.youtube.com/watch?v=zhA-gcXSmjY&t=127s
